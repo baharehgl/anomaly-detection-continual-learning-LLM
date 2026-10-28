@@ -1,0 +1,6 @@
+/COVID-19-Phase2-Wearables/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+phase2_daily.csv
+stanford_p2_labels.csv
